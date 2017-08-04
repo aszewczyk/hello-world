@@ -1,2 +1,3 @@
 # hello-world
-Start with GitHub. Learning in practice
+
+First words are always difficult. Journey begins here...
